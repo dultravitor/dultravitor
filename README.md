@@ -60,6 +60,17 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
 />
 
+##🧠 O que eu faço
+
+- 🗄️ Administração de Banco de Dados SQL Server
+- ⚡ Monitoramento e otimização de performance (queries, índices e tuning)
+- 🧩 Análise e resolução de problemas em banco de dados
+- 🔐 Gerenciamento de segurança (logins, usuários e permissões)
+- 💾 Backup, restore e estratégias de recuperação de dados
+- 🔄 Automação de rotinas administrativas com T-SQL
+- 📊 Suporte a relatórios e análise de dados (integração com Power BI)
+- 🎓 Aprendizado contínuo e evolução na área de Banco de Dados
+
 <img 
     align="left" 
     alt="Azure" 
