@@ -26,10 +26,21 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
     
 </p>
 
+
 ---
 
+### 🧠 O que eu faço
 
+- 🗄️ Administração de Banco de Dados SQL Server
+- ⚡ Monitoramento e otimização de performance (queries, índices e tuning)
+- 🧩 Análise e resolução de problemas em banco de dados
+- 🔐 Gerenciamento de segurança (logins, usuários e permissões)
+- 💾 Backup, restore e estratégias de recuperação de dados
+- 🔄 Automação de rotinas administrativas com T-SQL
+- 📊 Suporte a relatórios e análise de dados (integração com Power BI)
+- 🎓 Aprendizado contínuo e evolução na área de Banco de Dados
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -80,18 +91,6 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
 
 
 
----
-
-🧠 O que eu faço
-
-- 🗄️ Administração de Banco de Dados SQL Server
-- ⚡ Monitoramento e otimização de performance (queries, índices e tuning)
-- 🧩 Análise e resolução de problemas em banco de dados
-- 🔐 Gerenciamento de segurança (logins, usuários e permissões)
-- 💾 Backup, restore e estratégias de recuperação de dados
-- 🔄 Automação de rotinas administrativas com T-SQL
-- 📊 Suporte a relatórios e análise de dados (integração com Power BI)
-- 🎓 Aprendizado contínuo e evolução na área de Banco de Dados
 
 
 
