@@ -5,6 +5,8 @@
 Me chamo Vitor Dultra, tenho 28 anos e sou natural do Rio de Janeiro. Sou formado em Tecnólogo em Banco de Dados pela Cruzeiro do Sul Virtual.
 
 Atualmente, estou em constante evolução na área de Administração de Banco de Dados, com foco em SQL Server, buscando minha primeira oportunidade como DBA SQL Server Júnior. Como parte desse processo, compartilho quase diariamente no LinkedIn meus aprendizados, estudos e práticas, demonstrando minha consistência, disciplina e evolução profissional.
+
+
 <a href="https://github.com/dultravitor?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
