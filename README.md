@@ -59,6 +59,15 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Microsoft Azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+
+
 
 ##🧠 O que eu faço
 
@@ -71,14 +80,7 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
 - 📊 Suporte a relatórios e análise de dados (integração com Power BI)
 - 🎓 Aprendizado contínuo e evolução na área de Banco de Dados
 
-<img 
-    align="left" 
-    alt="Azure" 
-    title="Microsoft Azure"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
+
 
 
 
