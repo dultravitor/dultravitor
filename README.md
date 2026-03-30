@@ -78,6 +78,7 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 
+---
 
 ##🧠 O que eu faço
 
