@@ -19,11 +19,16 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/dultravitor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+        <a href = "mailto:dultravitor97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-dultra-4075181b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </a>
     
 </p>
 
 ---
+
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -34,6 +39,33 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/power-bi.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Windows Server" 
+    title="Windows Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Microsoft Azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 
 
