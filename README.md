@@ -55,15 +55,6 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
 
 <img 
     align="left" 
-    alt="T-SQL" 
-    title="T-SQL (SQL Server)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Power BI" 
     title="Power BI"
     width="30px" 
