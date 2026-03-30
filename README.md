@@ -44,6 +44,15 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
 
 <img 
     align="left" 
+    alt="T-SQL" 
+    title="T-SQL (SQL Server)"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Power BI" 
     title="Power BI"
     width="30px" 
@@ -59,6 +68,7 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Azure" 
@@ -66,7 +76,7 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-
+/>
 
 
 ##🧠 O que eu faço
