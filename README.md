@@ -82,7 +82,7 @@ Atualmente, estou em constante evolução na área de Administração de Banco d
 
 ---
 
-##🧠 O que eu faço
+🧠 O que eu faço
 
 - 🗄️ Administração de Banco de Dados SQL Server
 - ⚡ Monitoramento e otimização de performance (queries, índices e tuning)
